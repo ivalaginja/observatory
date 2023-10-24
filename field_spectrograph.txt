@@ -1,0 +1,7 @@
+- field splitter
+- anamorph
+- image slicer
+- collimator
+- grating
+- camera
+- detector

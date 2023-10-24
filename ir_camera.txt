@@ -1,0 +1,5 @@
+- aperture mask
+- collimator
+- filter wheel
+- camera optics
+- detector
